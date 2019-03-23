@@ -1,0 +1,249 @@
+<xml version="1.0" encode="UTF-8">
+
+<item>
+ <title>[COLOR red][B]#0[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.107.246:1155/live/arous/arous1/1984.ts
+
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=#0</link>
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png</thumbnail>
+<fanart>http://agentv.es/wp-content/uploads/2016/01/Sin-t%C3%ADtulo.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR red][B]#0 HD[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=#0</link>
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png</thumbnail>
+<fanart>http://agentv.es/wp-content/uploads/2016/01/Sin-t%C3%ADtulo.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR red][B]Movistar Estrenos [/B][/COLOR]  </title>
+<link>plugin://plugin.video.f4mTester/?url=
+
+
+
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link>http://iptvtool.es:9977/live/CAMI/CAMI/28789.ts
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png
+</thumbnail>
+<fanart>https://wwhttps://pastebin.com/edit/DjijKL5Ww.adslzone.net/app/uploads/2017/03/movistar-estrenos.jpg
+</fanart>
+</item>
+<item>
+<title>[COLOR red][B]Movistar Estrenos HD[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=
+
+
+
+
+
+
+
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link>http://iptvtool.es:9977/live/cortijo/cortijo/28789.ts
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png
+</thumbnail>
+<fanart>https://www.adslzone.net/app/uploads/2017/03/movistar-estrenos.jpg
+</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red][B]Movistar Acción[/B][/COLOR]  </title>
+<link>plugin://plugin.video.f4mTester/?url=
+
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png
+</thumbnail>
+<fanart>https://www.adslzone.net/app/uploads/2017/03/movistar-estrenos.jpg
+</fanart>
+
+
+
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción</link>
+
+</item>
+
+
+
+<item>
+<title>[COLOR red][B]Movistar Acción [/B][/COLOR]  </title>
+<link>plugin://plugin.video.f4mTester/?url=
+&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Accion</link>
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png
+</thumbnail>
+<fanart>https://www.adslzone.net/app/uploads/2017/04/movistar-estrenos-juego-de-tronos-verano.jpg
+</fanart>
+</item>
+<item>
+<title>[COLOR red][B]Movistar Acción HD[/B][/COLOR]  </title>
+<link>plugin://plugin.video.f4mTester/?url=
+
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Accion</link>
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png
+</thumbnail>
+<fanart>https://www.adslzone.net/app/uploads/2017/04/movistar-estrenos-juego-de-tronos-verano.jpg
+</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red][B]Movistar Comedia [/B][/COLOR]  </title>
+<link>plugin://plugin.video.f4mTester/?url=
+
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Comedia</link>
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png
+</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111649i67B5BCFE25EC8F99/image-size/original?v=v2&px=-1
+</fanart>
+</item>
+<item>
+<title>[COLOR red][B]Movistar Comedia HD[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Comedia</link>
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png
+</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111649i67B5BCFE25EC8F99/image-size/original?v=v2&px=-1
+</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]Movistar Drama[/B][/COLOR]  </title>
+<link>plugin://plugin.video.f4mTester/?url=
+
+&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Drama</link>
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png
+</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111654i7C95D412172A5C0A/image-size/original?v=v2&px=-1
+</fanart>
+</item>
+<item>
+<title>[COLOR red][B]Movistar Drama HD[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url
+
+
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Drama HD</link>
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png
+</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111654i7C95D412172A5C0A/image-size/original?v=v2&px=-1
+</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]Movistar Cine Español[/B][/COLOR]  </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/lilV/902.ts
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Cine Espanol</link>
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png
+</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111652i5C6AECD1888E0BFE/image-size/original?v=v2&px=-1
+</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red][B]Movistar Cine Ñ[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/liveJHIZuNlV/90
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Cine Español</link>
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png
+</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111652i5C6AECD1888E0BFE/image-size/original?v=v2&px=-1
+</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]Movistar CineDoc&Roll[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV
+
+&amp;streamtype=TSDOWNLOADER&amp;name=Movistar CineDoc&Roll</link>
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png
+</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111648iDD3C32AD3F8360E9/image-size/original?v=v2&px=-1
+</fanart>
+</item>
+<item>
+<title>[COLOR red][B]Movistar CineDoc&Roll HD[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59.ts
+
+
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=Movistar CineDoc&Roll</link>
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png
+</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111648iDD3C32AD3F8360E9/image-size/original?v=v2&px=-1
+</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR red][B]Movistar Disney [/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/1049.ts
+
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Disney</link>
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/MDISNE.png
+</thumbnail>
+<fanart>https://www.adslzone.net/app/uploads/2017/12/movistar-disney-3.jpg
+</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red][B]Hollywood[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/348.ts
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood</link>
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png</thumbnail>
+<fanart>http://blog.ono.es/wp-content/uploads/2010/08/hollywood_oblog.jpg </fanart> 
+</item>
+<item>
+<title>[COLOR red][B]Hollywood HD[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/994.ts
+
+
+
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood</link>
+<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png</thumbnail>
+<fanart>http://blog.ono.es/wp-content/uploads/2010/08/hollywood_oblog.jpg </fanart> 
+</item>
+
+<item>
+<title>[COLOR red][B]Calle 13[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/905.ts
