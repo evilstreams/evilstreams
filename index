@@ -1,0 +1,260 @@
+<script language="JavaScript">
+  /**
+    * Disable right-click of mouse, F12 key, and save key combinations on page
+    * By Arthur Gareginyan (arthurgareginyan@gmail.com)
+    * For full source code, visit https://mycyberuniverse.com
+    */
+  window.onload = function() {
+    document.addEventListener("contextmenu", function(e){
+      e.preventDefault();
+    }, false);
+    document.addEventListener("keydown", function(e) {
+    //document.onkeydown = function(e) {
+      // "I" key
+      if (e.ctrlKey && e.shiftKey && e.keyCode == 73) {
+        disabledEvent(e);
+      }
+      // "J" key
+      if (e.ctrlKey && e.shiftKey && e.keyCode == 74) {
+        disabledEvent(e);
+      }
+      // "S" key + macOS
+      if (e.keyCode == 83 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
+        disabledEvent(e);
+      }
+      // "U" key
+      if (e.ctrlKey && e.keyCode == 85) {
+        disabledEvent(e);
+      }
+      // "F12" key
+      if (event.keyCode == 123) {
+        disabledEvent(e);
+      }
+    }, false);
+    function disabledEvent(e){
+      if (e.stopPropagation){
+        e.stopPropagation();
+      } else if (window.event){
+        window.event.cancelBubble = true;
+      }
+      e.preventDefault();
+      return false;
+    }
+  };
+</script>
+<script language=JavaScript>
+<!--
+
+//Disable right mouse click Script
+//By Geek Site.in
+
+
+var message="Function Disabled!";
+
+///////////////////////////////////
+function clickIE4(){
+if (event.button==2){
+alert(message);
+return false;
+}
+}
+
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+alert(message);
+return false;
+}
+}
+}
+
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+
+document.oncontextmenu=new Function("alert(message);return false")
+
+// --> 
+</script>
+<channels>
+ 
+<channel>
+      <span style="color: white;"><name>[COLOR blue]=================================================== [/COLOR]</name>
+  <thumbnail>http://kentuckyrec.com/site/wp-content/uploads/2013/07/Update.jpg</thumbnail>
+<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
+http://ignoreme
+   <externallink>http://bit.ly/2CHTRCS</externallink>
+</span><link></link></channel><span style="color: white;">
+  </span></channels><span style="color: white;">
+
+<channel>
+      <name>[COLOR blue]=================[/COLOR][COLOR yellow]Bienvenidos a EvilStreams[/COLOR][COLOR blue]=======================[/COLOR]</name>
+  <thumbnail>http://kentuckyrec.com/site/wp-content/uploads/2013/07/Update.jpg</thumbnail>
+<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
+<link></link>http://ignoreme
+   <externallink>https://bit.ly/2uu1vMG$$LSProEncKey=qwerty$$</externallink>
+</channel>
+  
+
+
+
+
+<channel>
+      <name>[COLOR blue]=================================================== [/COLOR]</name>
+  <thumbnail>http://kentuckyrec.com/site/wp-content/uploads/2013/07/Update.jpg</thumbnail>
+<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
+<link></link>http://ignoreme
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR blue]============= [/COLOR][COLOR light green]Actualización:28/03/2019[/COLOR][COLOR blue]================================= [/COLOR]</name>
+  <thumbnail>http://kentuckyrec.com/site/wp-content/uploads/2013/07/Update.jpg</thumbnail>
+<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
+<link></link>http://ignoreme
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  </channels>
+ 
+ <channel>
+      <name>[COLOR blue]=================================================== [/COLOR]</name>
+  <thumbnail>http://kentuckyrec.com/site/wp-content/uploads/2013/07/Update.jpg</thumbnail>
+<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
+<link></link>http://ignoreme
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  
+
+ 
+<channel>
+      <name>[COLOR blue]=============[/COLOR][COLOR salmon] LISTA DE CANALES PREMIUM ESPAÑA[/COLOR][COLOR blue]================================== [/COLOR]</name>
+  <thumbnail>http://kentuckyrec.com/site/wp-content/uploads/2013/07/Update.jpg</thumbnail>
+<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
+<link></link>http://ignoreme
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  
+
+
+  <channel>
+      <name>[COLOR cyan]===========================MOVISTAR+===================================== [/COLOR]</name>
+  <thumbnail>http://kentuckyrec.com/site/wp-content/uploads/2013/07/Update.jpg</thumbnail>
+<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
+<link></link>http://ignoreme
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR  lime]•  [/COLOR][B]TDT[/B][/COLOR]</name>
+  <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/68/TDT_wordmark.svg</thumbnail>
+<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
+<link></link>http://ignoreme
+   <externallink>https://pastebin.com/raw/MKMDF10x</externallink>
+</channel>
+  </channels>
+
+<channels>
+ 
+<channel>
+      <name>[COLOR green][COLOR  lime]•  [/COLOR][B]Deportes[/B][/COLOR]</name>
+  <thumbnail>https://pbs.twimg.com/profile_images/1060960649969369088/9kVEbgF2_400x400.jpg</thumbnail>
+<fanart>https://www.mistercomparador.com/noticias/wp-content/uploads/2018/08/movistar-futbol-1.jpg</fanart>
+<link></link>http://ignoreme
+   <externallink>https://pastebin.com/raw/z5R8NpaK</externallink>
+</channel>
+  </channels>
+ 
+ 
+
+
+ 
+ 
+
+ 
+
+ 
+ 
+<channels>
+ 
+<channel>
+      <name>[COLOR red][COLOR  lime]•  [/COLOR][B]Cine[/B][/COLOR]</name>
+  <thumbnail>https://pbs.twimg.com/profile_images/905382930574446592/MkOL4EEw_400x400.jpg</thumbnail>
+<fanart>https://www.ecestaticos.com/imagestatic/clipping/18c/f8a/18cf8a9a8c981a3d3de9821b49d76d94/imagen-sin-titulo.jpg?mtime=1545658167</fanart>
+<link></link>http://ignoreme
+   <externallink>https://pastebin.com/raw/MvwC5RCq</externallink>
+</channel>
+  </channels>
+ 
+ 
+
+
+
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR blue][COLOR  lime]•  [/COLOR][B]Series[/B][/COLOR]</name>
+  <thumbnail>https://pbs.twimg.com/profile_images/907900429647872000/1F5Bsw-0_400x400.jpg</thumbnail>
+<fanart>https://www.mundoplus.tv/concursos/movistar_series/imagenes/seriesmovistar.gif</fanart>
+<link></link>http://ignoreme
+   <externallink>https://pastebin.com/raw/zdPJXFx8</externallink>
+</channel>
+  </channels>
+ 
+ 
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR white][COLOR  lime]•  [/COLOR][B]Documentales[/B][/COLOR]</name>
+  <thumbnail>http://veracidadchannel.com/_site/wp-content/uploads/2017/08/documentales-752x440.png</thumbnail>
+<fanart>http://img2.rtve.es/v/3282985?w=1600&amp;preview=1511861586373.png</fanart>
+<link></link>http://ignoreme
+   <externallink>https://pastebin.com/raw/X9bNE7zv</externallink>
+</channel>
+  </channels>
+ 
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR orange][COLOR  lime]•  [/COLOR][B]Infantiles[/B][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
+<link></link>http://ignoreme
+   <externallink>https://pastebin.com/raw/bNfWtdYp</externallink>
+</channel>
+  </channels>
+ 
+ 
+
+
+
+
+
+
+</span><channels><span style="color: white;">
+ 
+</span><channel><span style="color: white;">
+      <name>[COLOR brown][COLOR  lime]•  [/COLOR][B]Música[/B][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>https://infocielo.com/uploads/noticias/imagenes/a/2018/11/20181122105502_.m%C3%BAsica.jpg</fanart>
+http://ignoreme
+   <externallink>https://pastebin.com/raw/QHJiKzB1</externallink></span><link></link>
+</channel>
+  </channels>
